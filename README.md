@@ -14,7 +14,7 @@ Before running the script, make sure you have the following:
 1. Install dependencies using pip install -r requirements.txt.
 1. Open the script in a code editor.
 2. Replace the placeholders in the script with your NowPayments API key and payment ID.
-3. Run the script using `python script_name.py`.
+3. Run the script using `python main.py`.
 
 ## Configuration
 Replace the following variables in the script with your own values:
